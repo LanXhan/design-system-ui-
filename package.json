@@ -1,0 +1,18 @@
+{
+  "name": "@backlight-dev/manufacturer-reply-92ta6.svelte-llfxhacz",
+  "version": "2.0.4",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve wdOlwKmtyxIQi9gMJsAy --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.0.0"
+  },
+  "dependencies": {
+    "svelte": "^3.44.0"
+  }
+}
